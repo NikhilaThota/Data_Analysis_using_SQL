@@ -34,4 +34,4 @@ c.) Email Events: Contains events specific to the sending of emails.
 - occurred_at:	The time the event occurred.
 - action:	The name of the event that occurred. "sent_weekly_digest" means that the user was delivered a digest email showing relevant conversations from the previous day. "email_open" means that the user opened the email. "email_clickthrough" means that the user clicked a link in the email.
 
-Advanced SQL queries are used to combine all the tables to extract meaningful information in order ot investrgate the sudden drop in user engagement. 
+Advanced SQL queries and visualizations are used using the Mode Analytics platform to combine all the tables to extract meaningful information in order ot investrgate the sudden drop in user engagement. 
